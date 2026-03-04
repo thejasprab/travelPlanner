@@ -30,7 +30,7 @@ A simple **Gradio chat UI** is included for interactive use.
 
 - After approval, a **final itinerary** generated from the chosen plan and your original query.
 
-> Note: Your description mentions hotel pricing and stay costs. The current notebook’s plan schema focuses on high-level itinerary planning fields (Destination / Days / Highlights / etc.). If you want **hotel cost estimates** to be guaranteed, you can extend the plan schema and/or add a dedicated “costing” tool/node.
+> Note: The current notebook’s plan schema focuses on high-level itinerary planning fields (Destination / Days / Highlights / etc.).
 
 ---
 
