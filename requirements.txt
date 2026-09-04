@@ -11,3 +11,11 @@ tavily-python
 wikipedia
 trustcall
 langgraph-cli[inmem]
+
+gradio
+python-dotenv
+langchain-core
+langchain-groq
+langchain-community
+langgraph
+tavily-python
